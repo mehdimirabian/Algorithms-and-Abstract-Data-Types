@@ -1,0 +1,15 @@
+
+ Name: Mohammad Mirabian
+ CruzID: mmirabia
+ File Name: README
+ File Purpose: Info
+
+files that were uploaded are:
+README
+Makefile
+List.c
+List.h
+Graph.h
+Graph.c
+GraphTest.c
+FindComponents.c
